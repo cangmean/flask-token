@@ -1,1 +1,1 @@
-# flask_token
+# flask-token
